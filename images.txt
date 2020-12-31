@@ -1,0 +1,1 @@
+startScreen.png, playButton.png, helpButton.png, scoresButton.png, scores.png, help.png, gameBoard.png, menuBar.PNG, arrowNext.png, help2.png, arrowBack.png, richGuy.png, money.png, moneyFall.png, exitButton.png, nameScreen.PNG,homeButton.png,cards.png,backCard.png,gameEnd.PNG,pointer.png, isaac.PNG, jesse.PNG

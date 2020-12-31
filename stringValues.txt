@@ -1,0 +1,16 @@
+Ace, Two, Three, Four, Five, Six, Seven, Eight, Nine, Ten, Jack, Queen, King
+Clubs, Spades, Hearts,Diamonds
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+1234567890
+
+Comic Sans MS
+number
+name,help1,scores,exit
+home,help1,scores,exit
+split,hit,stand,double
+play,help2
+home,help2
+help1
+play
+home
+number,first,last
